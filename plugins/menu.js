@@ -15,7 +15,7 @@ let tags = {
   'group': 'GROUP',
   'anime': 'ANIMEH',
   'internet': 'INTERNET',
-  'jadian': 'Jadian',
+  'maker': 'MAKER',
   'downloader': 'DOWNLOADER',
   'tools': 'TOOLS',
   'nulis': 'MAGER-NULIS & LOGO',
